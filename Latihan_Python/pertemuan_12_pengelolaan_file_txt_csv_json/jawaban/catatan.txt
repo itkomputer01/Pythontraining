@@ -1,0 +1,3 @@
+Belajar Python itu menyenangkan
+Hari ini membahas file
+Besok membahas error

@@ -1,4 +1,4 @@
-print("Python", "itu", "mudah")
-print("Python", "itu", "mudah", sep="-")
-print("Baris 1", end=" | ")
-print("Baris 2")
+data1=int(input("Angka1 :").strip())
+data2=int(input("Angka2 :").strip())
+hasil=data1 + data2
+print(hasil)
